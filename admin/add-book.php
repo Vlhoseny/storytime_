@@ -18,7 +18,7 @@
       <span class="screen-reader-text">Menu</span>
     </button>
     <nav role="navigation" class="menu">
-      <a href="#" class="logotype">Story<span>Time</span></a>
+      <a href="#" class="logotype">Story<span>Timee</span></a>
       <div class="overflow-container">
         <ul class="menu-dropdown">
           <br>
